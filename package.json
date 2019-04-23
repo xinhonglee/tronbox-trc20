@@ -1,0 +1,7 @@
+{
+  "name": "token",
+  "version": "0.0.1",
+  "dependencies": {
+    "dotenv": "^6.2.0"
+  }
+}
